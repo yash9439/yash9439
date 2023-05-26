@@ -29,6 +29,7 @@
   <br>
   <strong>Connect with me at:  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
   <ul style="list-style-type: disc; padding-left: 20px;">
+    <br>
     📫 How to reach me:
     <ul> 
     <li><a href="mailto:yash.bhaskar@research.iiit.ac.in"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
@@ -87,7 +88,7 @@ const Yash = {
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/yash9439/NLP-ProjectArchive" title="NLP-ProjectArchive"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=NLP-ProjectArchive&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yash9439/reddit-clone
-" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=reddit-clone
+" title="reddit-clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=reddit-clone
 &theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
@@ -95,7 +96,7 @@ const Yash = {
   <a align="left" href="https://github.com/yash9439/Algorithms-Collection" title="Algorithms-Collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=Algorithms-Collection&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/yash9439/ASM-Code" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=ASM-Code&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/yash9439/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/yash9439/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
