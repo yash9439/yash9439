@@ -1,6 +1,6 @@
 [![Screenshot-from-2023-05-26-11-38-49.png](https://i.postimg.cc/kgvmqyJg/Screenshot-from-2023-05-26-11-38-49.png)](https://postimg.cc/4YyM1VHD)
 
-<br>
+<br> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yash+Bhaskar..;Nice+to+meet+you!&center=true&size=30">
