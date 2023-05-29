@@ -27,6 +27,18 @@
     <li>📚 Currently expanding my knowledge and skills in Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science.</li>
   </ul>
   <br>
+```javascript
+const Yash = {
+  pronouns: "He" | "his",
+  language: [C++, Python, C, Javascript, Typescript],
+  frontend: [React, Javascript, Bootstrap, Materialize, HTML, CSS],
+  backend: [express, nodeJs],
+  miscellaneous: [Machine Learning, Natural Language Processing, MongoDB, Docker, Shell Scripting],
+  libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
+}
+```
+<br>
   <strong>Connect with me at:  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <br>
@@ -53,17 +65,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Yash = {
-  pronouns: "He" | "his",
-  language: [C++, Python, C, Javascript, Typescript],
-  frontend: [React, Javascript, Bootstrap, Materialize, HTML, CSS],
-  backend: [express, nodeJs],
-  miscellaneous: [Machine Learning, Natural Language Processing, MongoDB, Docker, Shell Scripting],
-  libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
- challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
-}
-```
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
