@@ -27,6 +27,7 @@
     <li>📚 Currently expanding my knowledge and skills in Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science.</li>
   </ul>
   <br>
+    
 ```javascript
 const Yash = {
   pronouns: "He" | "his",
@@ -38,6 +39,7 @@ const Yash = {
  challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
 }
 ```
+    
 <br>
   <strong>Connect with me at:  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
   <ul style="list-style-type: disc; padding-left: 20px;">
