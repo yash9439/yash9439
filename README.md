@@ -81,11 +81,11 @@ const Yash = {
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash9439&theme=dark&hide_border=false)
 
   </div>
-  <div width="100%" align="right">
+<!--   <div width="100%" align="right">
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  </div>
+  </div> -->
 </p>
 
 <!-- 
