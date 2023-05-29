@@ -88,7 +88,7 @@ const Yash = {
   </div>
 </p>
 
-
+<!-- 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -99,17 +99,17 @@ const Yash = {
   <a align="left" href="https://github.com/yash9439/Algorithms-Collection" title="Algorithms-Collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=Algorithms-Collection&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/yash9439/ASM-Code" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=ASM-Code&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/>
+<br/><br/><br/> -->
 <!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/yash9439/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/yash9439/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/> -->
 
-<br/><br/><br/><br/><br/><br/>
+<!-- <br/><br/><br/><br/><br/><br/>
 
 
 <h4 align="center">
   <a href="https://github.com/yash9439?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</h4> -->
 
