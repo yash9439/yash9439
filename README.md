@@ -56,6 +56,7 @@ const Yash = {
     <li><a href="mailto:yash.bhaskar@research.iiit.ac.in"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
     <li><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
     <li><a href="https://yash9439.github.io/" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
+    <li><a href="https://medium.com/@yash9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
     </ul>
   </ul>
 </p>
