@@ -87,6 +87,9 @@ const Yash = {
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   </div> -->
+
+  
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=yash9439&style=plastic&label=Profile+Views+@'yash9439' alt=yash9439/> </p>
 </p>
 
 <!-- 
