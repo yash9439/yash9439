@@ -1,4 +1,3 @@
-[![Screenshot-from-2023-05-26-11-38-49.png](https://i.postimg.cc/kgvmqyJg/Screenshot-from-2023-05-26-11-38-49.png)](https://postimg.cc/4YyM1VHD)
 
 <br> 
 <h1 align="center">
@@ -89,10 +88,13 @@ const Yash = {
   </div> -->
 
   
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=yash9439&style=plastic&label=Profile+Views+@'yash9439' alt=yash9439/> </p>
+
 </p>
 
 <!-- 
+[![Screenshot-from-2023-05-26-11-38-49.png](https://i.postimg.cc/kgvmqyJg/Screenshot-from-2023-05-26-11-38-49.png)](https://postimg.cc/4YyM1VHD)
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=yash9439&style=plastic&label=Profile+Views+@'yash9439' alt=yash9439/> </p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
