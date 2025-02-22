@@ -11,7 +11,7 @@
   <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/yash9439/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
   <code><a href="https://codeforces.com/profile/yashBhaskar" title="Code Forces Profile"><img width="22" src="images/codeforces.svg"> CodeForces </a></code>
-  <code><a href="https://www.instagram.com/yashbhaskar653/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+<!--   <code><a href="https://www.instagram.com/yashbhaskar653/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
 </h5>
 <br>
 
