@@ -1,121 +1,79 @@
 
-<br> 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yash+Bhaskar..;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
- 
+# Yash Bhaskar
+### AI Researcher, Deep Learning Engineer | Kaggle Grandmaster
 
-<h5 align="center">
-  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/yash9439/" title="LeetCode Profile"><img width="22" src="images/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://codeforces.com/profile/yashBhaskar" title="Code Forces Profile"><img width="22" src="images/codeforces.svg"> CodeForces </a></code>
-<!--   <code><a href="https://www.instagram.com/yashbhaskar653/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
-</h5>
-<br>
+[![Profile Views](https://img.shields.io/badge/Profile%20views-15%2C255-0e75b6)](https://github.com/yash9439)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--bhaskar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-bhaskar/)
+[![Medium](https://img.shields.io/badge/Medium-@yash9439-12100E?style=flat&logo=medium)](https://medium.com/@yash9439)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/yash9439)
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-<p>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Hi, I'm an undergraduate student researcher | LTRC, IIIT H</li>
-    <br>
-    <li>🔬 I'm currently studying for a B.Tech for Computer Science and MS for Computational Linguistics at IIIT Hyderabad.</li>
-    <br>
-    <li>📚 Currently expanding my knowledge and skills in Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science.</li>
-  </ul>
-  <br>
-    
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+---
 
-    
-```javascript
-const Yash = {
-  pronouns: "He" | "his",
-  language: [C++, Python, C, Javascript, Typescript],
-  frontend: [React, Javascript, Bootstrap, Materialize, HTML, CSS],
-  backend: [express, nodeJs],
-  miscellaneous: [Machine Learning, Natural Language Processing, MongoDB, Docker, Shell Scripting],
-  libraries: ["Pytorch", "Keras", "TensorFlow", "LangChain", "LayoutParser", "NLTK", "iNLTK", "WordNet"],
- challenge: "I am doing the #100DaysOfCode challenge focused on Competitive Programming"
-}
-```
-    
-<br>
-  <strong>Connect with me at:  <code><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code></strong>
-  <ul style="list-style-type: disc; padding-left: 20px;">
-    <br>
-    📫 How to reach me:
-    <ul> 
-    <li><a href="mailto:yash.bhaskar@research.iiit.ac.in"><strong style="color: skyblue;">Drop a Mail</strong></a></li>
-    <li><a href="https://in.linkedin.com/in/yash-bhaskar" title="LinkedIn Profile"><img width="22"> <strong style="color: skyblue;">Connect via LinkedIn</strong></a></li>
-    <li><a href="https://yash9439.github.io/" title="Personal Website"><img width="22"> <strong style="color: skyblue;">Visit My Website</strong></a></li>
-    <li><a href="https://medium.com/@yash9439" title="Articles"><img width="22"> <strong style="color: skyblue;">My Blogs</strong></a></li>
-    </ul>
-  </ul>
-</p>
+## About Me
 
-  </div>
-  <div style="flex: 1;">
-    <img alt="Coder GIF" height="250" width="350" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
-  </div>
-</div>
+I am a researcher and developer specializing in **Deep Learning**, with a deep focus on **Natural Language Processing (NLP)**. I am currently pursuing a B.Tech in Computer Science and an M.S. by Research in Computational Linguistics at the **International Institute of Information Technology (IIIT), Hyderabad**.
 
+My M.S. thesis research centers on advancing **Machine Translation** for low-resource Indian languages and exploring advanced alignment techniques like **RLHF**, including methods such as **DPO** and **KTO**. I am a **Kaggle Grandmaster** and an active **NLP Blogger on Medium**, where my articles have amassed over **300,000+ views**.
 
+- 🔬 Publishing research in top-tier NLP conferences like **NAACL, WMT, EAMT, and MT Summit**.
+- 👨‍💻 Building practical, open-source AI/ML tools. Check out my `codetoprompt` library on [PyPI](https://pypi.org/project/codetoprompt/)!
+- ✍️ Sharing my knowledge on advanced NLP topics on my [Medium blog](https://medium.com/@yash9439).
+- 🏆 Passionate about competitive machine learning and problem-solving.
 
+---
 
+## Actively Seeking Full-Time Opportunities
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+I am currently looking for impactful full-time roles in **AI Research**, **Applied Science**, or **Deep Learning Engineering**. I am driven to contribute to ambitious projects at the forefront of the AI field, particularly in areas like **foundational models**, **generative AI**, and **agentic systems**. If you have opportunities that align with my expertise, I would love to connect.
 
+---
 
-<hr>
-<br>
-<p align="center">
-  <div width="100%" align="left">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yash9439&theme=dark&hide_border=false)
+## Latest Updates
 
-  </div>
-<!--   <div width="100%" align="right">
+- **Joined Amazon** as an Applied Scientist Intern, focusing on improving production-scale product embedding models for better product representation.
+- **Released [codetoprompt](https://github.com/yash9439/codetoprompt)**: My open-source library surpassed **10,000+ downloads** on PyPI.
+- **Presented @ MT Summit 2025**: Shared our research on *"Progressive Perturbation with KTO for Enhanced Machine Translation of Indian Languages."*
+- **Presented @ EANMT 2024**: Delivered a talk on our findings in *"Assessing Translation Capabilities of LLMs involving English and Indian Languages."*
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9439&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-  </div> -->
+## Featured Research & Engineering Projects
 
-  
+Here are some of my latest projects that highlight my work in Deep Learning and NLP.
 
-</p>
+- **[codetoprompt](https://github.com/yash9439/codetoprompt)**  
+  A powerful CLI tool that transforms local codebases, GitHub repositories, and web content into a single, optimized prompt for LLMs. Features an interactive file selector, smart code compression, and multiple output formats.  
+  [Check it out on PyPI](https://pypi.org/project/codetoprompt/).
 
-<!-- 
-[![Screenshot-from-2023-05-26-11-38-49.png](https://i.postimg.cc/kgvmqyJg/Screenshot-from-2023-05-26-11-38-49.png)](https://postimg.cc/4YyM1VHD)
+- **[Test-Time Compute for SLMs](https://github.com/yash9439/Test-time-compute-SLMs)**  
+  An in-depth research project exploring test-time compute allocation (like budget forcing) to enhance reasoning in Small Language Models (SLMs). We benchmarked models like Phi-3 and Qwen-1.5B on advanced reasoning tasks (MATH, GPQA) using techniques like CoT/CoD prompting and GRPO fine-tuning.
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=yash9439&style=plastic&label=Profile+Views+@'yash9439' alt=yash9439/> </p>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/NLP-ProjectArchive" title="NLP-ProjectArchive"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=NLP-ProjectArchive&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/yash9439/reddit-clone" title="reddit-clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=reddit-clone&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/Algorithms-Collection" title="Algorithms-Collection"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=Algorithms-Collection&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yash9439/ASM-Code" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=ASM-Code&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/> -->
-<!-- <div width="100%" align="center">
-  <a align="left" href="https://github.com/yash9439/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/yash9439/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yash9439&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/> -->
+- **[Multi-Agent Open-Domain Q&A System](https://github.com/yash9439/MultiAgent-OpenDomain-QnA-System)**  
+  A sophisticated Q&A system built with specialized agents for query modification, document retrieval (sparse and dense), ranking, and answer generation to tackle complex, open-domain questions.
 
-<!-- <br/><br/><br/><br/><br/><br/>
+- **[RAG with Llama3 Agents](https://github.com/yash9439/RAG-with-Agents-llama3)**  
+  An implementation of a Retrieval-Augmented Generation (RAG) pipeline leveraging Llama-3 and the ReAct (Reasoning and Acting) agent framework to provide accurate, context-aware responses from a knowledge base.
 
+---
 
-<h4 align="center">
-  <a href="https://github.com/yash9439?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
- 
+## Skills & Expertise
+
+- **Programming**: Python, C/C++, Git, GitHub
+- **AI/ML Frameworks**: PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Hugging Face
+- **Cloud & Big Data**: AWS (SageMaker, EC2, S3), PySpark
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **NLP/AI Domains**: Large Language Models (LLMs), RAG, Agentic AI, Machine Translation, Fine-Tuning (SFT, RLHF [PPO, DPO, KTO], GRPO), Quantization, Information Retrieval, Vector Databases (Qdrant)
+
+---
+
+## Let's Connect
+
+I'm always open to discussing new projects, research ideas, or collaboration opportunities. Feel free to connect with me!
+
+- **LinkedIn**: [linkedin.com/in/yash-bhaskar](https://www.linkedin.com/in/yash-bhaskar/)
+- **Medium**: [medium.com/@yash9439](https://medium.com/@yash9439)
+- **Email**: [yash9439@gmail.com](mailto:yash9439@gmail.com)
+
+---
+
+*What I cannot create, I do not understand.* – Richard Feynman
