@@ -30,11 +30,15 @@ I am currently looking for impactful full-time roles in **AI Research**, **Appli
 
 ## Latest Updates
 
-- **Joined Amazon** as an Applied Scientist Intern, focusing on improving production-scale product embedding models for better product representation.
-- **Released [codetoprompt](https://github.com/yash9439/codetoprompt)**: My open-source library surpassed **10,000+ downloads** on PyPI.
-- **Presented @ MT Summit 2025**: Shared our research on *"Progressive Perturbation with KTO for Enhanced Machine Translation of Indian Languages."*
-- **Presented @ EANMT 2024**: Delivered a talk on our findings in *"Assessing Translation Capabilities of LLMs involving English and Indian Languages."*
-
+- **arXiv 2025 (cs.CL)**: *Crosslingual Optimized Metric for Translation Assessment of Indian Languages (COMTAIL)*. [[paper](https://arxiv.org/abs/2509.17667)]
+- **codetoprompt**: Open-source CLI for converting codebases and web content into optimized LLM prompts — **20k+ PyPI downloads**. [[repo](https://github.com/yash9439/codetoprompt)]
+- **Amazon (May–Oct 2025)**: Applied Scientist Intern — production-scale product embedding models.
+- **MT Summit 2025**: *Progressive Perturbation with KTO for Enhanced Machine Translation of Indian Languages*. [[paper](https://aclanthology.org/2025.mtsummit-1.26/)]
+- **WMT 2024**: *Yes-MT’s Submission to the Low-Resource Indic Language Translation Shared Task*. [[paper](https://aclanthology.org/2024.wmt-1.71/)]
+- **ICON 2024**: *Decoding Fake Narratives in Spreading Hateful Stories: A Dual-Head RoBERTa Model with Multi-Task Learning*. [[paper](https://aclanthology.org/2024.icon-fauxhate.3/)]
+- **SemEval 2024**: *Fine-tuning Language Models for AI vs Human Generated Text Detection*. [[paper](https://aclanthology.org/2024.semeval-1.132/)]
+- **EAMT 2024**: *Assessing Translation Capabilities of LLMs involving English and Indian Languages*. [[paper](https://aclanthology.org/2024.eamt-1.19/)]
+  
 ---
 
 ## Featured Research & Engineering Projects
