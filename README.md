@@ -22,12 +22,6 @@ My M.S. thesis research centers on advancing **Machine Translation** for low-res
 
 ---
 
-## Actively Seeking Full-Time Opportunities
-
-I am currently looking for impactful full-time roles in **AI Research**, **Applied Science**, or **Deep Learning Engineering**. I am driven to contribute to ambitious projects at the forefront of the AI field, particularly in areas like **foundational models**, **generative AI**, and **agentic systems**. If you have opportunities that align with my expertise, I would love to connect.
-
----
-
 ## Latest Updates
 
 - **IEEE CAI 2026**: *HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance*. [[paper](https://arxiv.org/pdf/2602.23367)]
