@@ -30,6 +30,7 @@ I am currently looking for impactful full-time roles in **AI Research**, **Appli
 
 ## Latest Updates
 
+- **IEEE CAI 2026**: *HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance*. [[paper](https://arxiv.org/pdf/2602.23367)]
 - **arXiv 2025 (cs.CL)**: *Crosslingual Optimized Metric for Translation Assessment of Indian Languages (COMTAIL)*. [[paper](https://arxiv.org/abs/2509.17667)]
 - **codetoprompt**: Open-source CLI for converting codebases and web content into optimized LLM prompts - **20k+ PyPI downloads**. [[repo](https://github.com/yash9439/codetoprompt)]
 - **Amazon (May–Oct 2025)**: Applied Scientist Intern : Made production-scale product embedding models.
