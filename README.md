@@ -2,7 +2,7 @@
 # Yash Bhaskar
 ### AI Researcher, Deep Learning Engineer | Kaggle Competitions Master
 
-[![Profile Views](https://img.shields.io/badge/Profile%29views-18%2C255-0e75b6)](https://github.com/yash9439)
+[![Profile Views](https://img.shields.io/badge/Profile%20views-18%2C255-0e75b6)](https://github.com/yash9439)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yash--bhaskar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-bhaskar/)
 [![Medium](https://img.shields.io/badge/Medium-@yash9439-12100E?style=flat&logo=medium)](https://medium.com/@yash9439)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Grandmaster-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/yash9439)
